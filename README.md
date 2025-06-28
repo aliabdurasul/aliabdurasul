@@ -1,8 +1,9 @@
-## Hi there my name is Ali  👋
+### Hi, I'm Ali 👋
+I'm a final-year AI Engineering student building real-world machine learning apps using Python. I'm passionate about startups, AI, and making things work.
 
-<!--
-**aliabdurasul/aliabdurasul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🔭 Current Projects: Spam Detection | Streamlit Dashboards | Face Recognition  
+🌍 Open to: AI Internships · Remote Work · Estonia Relocation  
+📫 How to reach me: abdurasul0904@mail.ru
 
 # 🎓 Certifications
 
