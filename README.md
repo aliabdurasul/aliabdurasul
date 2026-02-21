@@ -1,10 +1,22 @@
-### Hi, I'm Ali 👋
-I'm a final-year AI Engineering student building real-world machine learning apps using Python. I'm passionate about startups, AI, and making things work.
+# Hi, I'm SafarAli 👋
 
-- 🔭 I’m currently working on ... fundamentals of ai
-- 🌱 I’m currently learning ... ai based pathway
-- 👯 I’m looking to collaborate on ... real work projects
-- 🤔 I’m looking for help with ... finding intern
-- 💬 Ask me about ... whatever
-- 📫 How to reach me: abdurasulov0904@mail.ru
--->
+Junior Software Developer focused on Python and Full-Stack development.
+
+I build real-world SaaS systems including POS platforms, QR Menu solutions, automation bots, and machine learning models. Passionate about backend architecture, databases, and scalable software systems.
+
+## 🔧 Tech Stack
+- Python, JavaScript, SQL
+- Pandas, NumPy, Scikit-learn, OpenCV
+- REST APIs, Webhooks, n8n Automation
+- Relational Databases & Data Modeling
+
+## 🚀 Current Focus
+- Building SaaS products (Mobile POS & QR Menu)
+- Improving backend architecture & error handling
+- Growing toward production-level system design
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/abdurasulovs
+- Email: abdurasulov0904@mail.ru
+
+Always learning. Always building.
