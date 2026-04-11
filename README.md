@@ -1,8 +1,9 @@
 # Hi, I'm SafarAli 👋
+Software Developer focused on building SaaS platforms and backend systems for real business operations.
 
-Junior Software Developer focused on Python and Full-Stack development.
+Hands-on experience in developing multi-tenant applications, POS systems, QR-based ordering platforms, and automation workflows. Strong in backend architecture, database design, and API-driven systems.
 
-I build real-world SaaS systems including POS platforms, QR Menu solutions, automation bots, and machine learning models. Passionate about backend architecture, databases, and scalable software systems.
+Focused on building production-ready systems that solve operational problems in retail and restaurant industries.
 
 ## 🔧 Tech Stack
 - Python, JavaScript, SQL
